@@ -149,62 +149,62 @@ public class FormulaInputs {
 		lblX.setBounds(99, 26, 73, 49);
 		lblX.setHorizontalAlignment(SwingConstants.LEFT);
 		lblX.setForeground(Color.WHITE);
-		lblX.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblX.setFont(new Font("Verdana", Font.PLAIN, 20));
 		pnlInput.add(lblX);
 		
 		JLabel lblX_1 = new JLabel("Y  =");
 		lblX_1.setHorizontalAlignment(SwingConstants.LEFT);
 		lblX_1.setForeground(Color.WHITE);
-		lblX_1.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblX_1.setFont(new Font("Verdana", Font.PLAIN, 20));
 		lblX_1.setBounds(99, 76, 65, 49);
 		pnlInput.add(lblX_1);
 		
 		JLabel lblZ = new JLabel("Z  =");
 		lblZ.setHorizontalAlignment(SwingConstants.LEFT);
 		lblZ.setForeground(Color.WHITE);
-		lblZ.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblZ.setFont(new Font("Verdana", Font.PLAIN, 20));
 		lblZ.setBounds(97, 126, 59, 49);
 		pnlInput.add(lblZ);
 		
 		JLabel lblT = new JLabel("T1  =");
 		lblT.setHorizontalAlignment(SwingConstants.LEFT);
 		lblT.setForeground(Color.WHITE);
-		lblT.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblT.setFont(new Font("Verdana", Font.PLAIN, 20));
 		lblT.setBounds(83, 181, 81, 49);
 		pnlInput.add(lblT);
 		
 		JLabel lblT_1 = new JLabel("T2  =");
 		lblT_1.setHorizontalAlignment(SwingConstants.LEFT);
 		lblT_1.setForeground(Color.WHITE);
-		lblT_1.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblT_1.setFont(new Font("Verdana", Font.PLAIN, 20));
 		lblT_1.setBounds(83, 235, 81, 45);
 		pnlInput.add(lblT_1);
 		
 		JLabel lblT_2 = new JLabel("T3  =");
 		lblT_2.setHorizontalAlignment(SwingConstants.LEFT);
 		lblT_2.setForeground(Color.WHITE);
-		lblT_2.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblT_2.setFont(new Font("Verdana", Font.PLAIN, 20));
 		lblT_2.setBounds(83, 284, 81, 49);
 		pnlInput.add(lblT_2);
 		
 		JLabel lblT_3 = new JLabel("T4  =");
 		lblT_3.setHorizontalAlignment(SwingConstants.LEFT);
 		lblT_3.setForeground(Color.WHITE);
-		lblT_3.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblT_3.setFont(new Font("Verdana", Font.PLAIN, 20));
 		lblT_3.setBounds(83, 331, 81, 49);
 		pnlInput.add(lblT_3);
 		
 		JLabel lblLcount = new JLabel("LCOUNT  =");
 		lblLcount.setHorizontalAlignment(SwingConstants.LEFT);
 		lblLcount.setForeground(Color.WHITE);
-		lblLcount.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblLcount.setFont(new Font("Verdana", Font.PLAIN, 20));
 		lblLcount.setBounds(22, 392, 140, 49);
 		pnlInput.add(lblLcount);
 		
 		JLabel lblStopl = new JLabel("STOPL  =");
 		lblStopl.setHorizontalAlignment(SwingConstants.LEFT);
 		lblStopl.setForeground(Color.WHITE);
-		lblStopl.setFont(new Font("Verdana", Font.PLAIN, 22));
+		lblStopl.setFont(new Font("Verdana", Font.PLAIN, 20));
 		lblStopl.setBounds(41, 444, 131, 49);
 		pnlInput.add(lblStopl);
 		
@@ -446,21 +446,21 @@ public class FormulaInputs {
 		JLabel label_8 = new JLabel("%");
 		label_8.setHorizontalAlignment(SwingConstants.LEFT);
 		label_8.setForeground(Color.WHITE);
-		label_8.setFont(new Font("Verdana", Font.PLAIN, 22));
+		label_8.setFont(new Font("Verdana", Font.PLAIN, 18));
 		label_8.setBounds(275, 26, 31, 49);
 		pnlInput.add(label_8);
 		
 		JLabel label_9 = new JLabel("%");
 		label_9.setHorizontalAlignment(SwingConstants.LEFT);
 		label_9.setForeground(Color.WHITE);
-		label_9.setFont(new Font("Verdana", Font.PLAIN, 22));
+		label_9.setFont(new Font("Verdana", Font.PLAIN, 18));
 		label_9.setBounds(275, 76, 31, 49);
 		pnlInput.add(label_9);
 		
 		JLabel label_10 = new JLabel("%");
 		label_10.setHorizontalAlignment(SwingConstants.LEFT);
 		label_10.setForeground(Color.WHITE);
-		label_10.setFont(new Font("Verdana", Font.PLAIN, 22));
+		label_10.setFont(new Font("Verdana", Font.PLAIN, 18));
 		label_10.setBounds(275, 126, 31, 49);
 		pnlInput.add(label_10);
 		
